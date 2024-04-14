@@ -102,6 +102,7 @@
 		9F0102B82BB916B6009C1773 /* FoodDelieveryApp */ = {
 			isa = PBXGroup;
 			children = (
+				9F5520212BCBCBD50061B238 /* UILayer */,
 				9F55200E2BCA2BF20061B238 /* NavigationLayer */,
 				9F0102CD2BB923ED009C1773 /* Resources */,
 				9F0102B92BB916B6009C1773 /* AppDelegate.swift */,
@@ -170,6 +171,13 @@
 				9F55201D2BCA5FC10061B238 /* ProfileCoordinator.swift */,
 			);
 			path = Coordinators;
+			sourceTree = "<group>";
+		};
+		9F5520212BCBCBD50061B238 /* UILayer */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UILayer;
 			sourceTree = "<group>";
 		};
 		9FE0DA192BB95BFD002BB0FF /* Roboto */ = {
